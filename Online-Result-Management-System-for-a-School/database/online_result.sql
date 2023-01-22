@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Feb 10, 2013 at 04:34 PM
+-- Generation Time: October 10, 2022 at 04:34 PM
 -- Server version: 5.0.51
 -- PHP Version: 5.2.6
 
@@ -38,7 +38,7 @@ CREATE TABLE `academic_info` (
 --
 
 INSERT INTO `academic_info` (`uni_name`, `dept_name`, `semister`, `std_id`) VALUES
-('Southern university', 'EEE', 'Winter', '006-11-77');
+('The Technical University of kenya', 'EEE', 'Winter', '006-11-77');
 
 -- --------------------------------------------------------
 

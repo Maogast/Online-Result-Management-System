@@ -18,7 +18,7 @@ require_once("admin.php");
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Southern University</title>
+<title>The Technical University of Kenya</title>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 
@@ -30,7 +30,7 @@ require_once("admin.php");
     </div>
      <div class="title">
      Faculty Of Engineering(CSIT,EEE,ECE)<br />
-     Southern University Bangladesh
+     The Technical University Of Kenya
      </div>
   </div>
       <div id="admin_header">
